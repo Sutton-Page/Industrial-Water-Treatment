@@ -6,7 +6,7 @@ When I started my intership the professor alread had Python scripts to simulate 
 
 ## Project Architecture
 
-Fontend: Writing using HTML, CSS, Python using the Dash framework: https://dash.plotly.com/
+Fontend: Writing using HTML, CSS, Python using the Dash framework: https://dash.plotly.com/ \
 Backend: Python
 
 ## Screenshots
