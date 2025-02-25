@@ -31,6 +31,7 @@ Backend: Python
 ![](./screenshots/advanced-graph.PNG)
 
 #### Multiple Simulations Graph
+![](./screenshots/multiple-graph.PNG)
 
 
 
