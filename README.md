@@ -1,4 +1,4 @@
-# Digital Twin of Waste water Treatment Process
+# Digital Twin of Paper Mill Waste Water Treatment Process
 This project is the result of work I did for an intership while in collge. Working with an Enviromental Engineering professor I developed a website that runs simulations of the waster water treatment process of a paper mill operating out of Agusta Georgia. The goal of this project was to create tool that the paper mill could use to simulate their waste water treatment process and make changes without affecting the actual paper mill.
 
 ## My Contributions
