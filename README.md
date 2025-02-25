@@ -30,7 +30,8 @@ Backend: Python
 ##### Output Graph
 ![](./screenshots/advanced-graph.PNG)
 
-#### Multiple Simulations
+#### Multiple Simulations Graph
+
 
 
 
