@@ -23,9 +23,14 @@ Backend: Python
 ![](./screenshots/basic-graph.PNG)
 
 ### Advanced Page
-#### This page is for running simulations with many different inputs. Recently I updated it to allow for running up to three different simulations at a time.
+#### This page is for running simulations with many different inputs. It also allows for up to 3 simulations to be run at the same time with all the results shown on one graph.
 
 ![](./screenshots/advanced.PNG)
+
+##### Output Graph
+![](.screenshots/advanced-graph.PNG)
+
+#### Multiple Simulations
 
 
 
