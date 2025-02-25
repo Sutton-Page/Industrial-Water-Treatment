@@ -28,7 +28,7 @@ Backend: Python
 ![](./screenshots/advanced.PNG)
 
 ##### Output Graph
-![](.screenshots/advanced-graph.PNG)
+![](./screenshots/advanced-graph.PNG)
 
 #### Multiple Simulations
 
