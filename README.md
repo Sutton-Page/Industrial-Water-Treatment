@@ -11,4 +11,7 @@ Backend: Python
 
 ## Screenshots
 
+### Home Page
+![./screenshots/home.PNG]
+
 
