@@ -1,0 +1,13 @@
+dash==2.15.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-mantine-components==0.12.1
+dash-table==5.0.0
+plotly==5.18.0
+pandas==2.2.0
+numpy==1.26.3
+pyDOE==0.3.8
+pyDOI==0.2.1
+scipy==1.12.0
+gunicorn==21.2.0
+openpyxl==3.1.2
