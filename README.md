@@ -21,12 +21,12 @@ Backend: Python
 
 #### Example Output Graph
 
-![](./screenshots/basic-graph.PNG)
+![](./screenshots/basic-grap.PNG)
 
 ### Advanced Page
 #### This page is for running simulations with many different inputs. Recently I updated it to allow for running up to three different simulations at a time.
 
-![](./screenshots/advanced-graph.PNG)
+![](./screenshots/advanced.PNG)
 
 
 
