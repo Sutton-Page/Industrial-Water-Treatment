@@ -20,7 +20,7 @@ Backend: Python
 ![](./screenshots/basic.PNG)
 
 #### Example Output Graph
-![](./screenshots/basic-grap.PNG)
+![](./screenshots/basic-graph.PNG)
 
 ### Advanced Page
 #### This page is for running simulations with many different inputs. Recently I updated it to allow for running up to three different simulations at a time.
