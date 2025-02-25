@@ -15,10 +15,12 @@ Backend: Python
 ![](./screenshots/home.PNG)
 
 ### Basic Page
-This page is for running a basic simulation with only a limited number of inputs.
+This page is for running a basic simulation with only a limited number of inputs. \
+
 ![](./screenshots/basic.PNG)
 
 Graph
+
 ![](./screenshots/basic-graph.PNG)
 
 
