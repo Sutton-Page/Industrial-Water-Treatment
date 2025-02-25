@@ -20,7 +20,6 @@ Backend: Python
 ![](./screenshots/basic.PNG)
 
 #### Example Output Graph
-
 ![](./screenshots/basic-grap.PNG)
 
 ### Advanced Page
