@@ -2,7 +2,7 @@
 This project is the result of work I did during an internship in college. Collaborating with an Environmental Engineering professor, I developed a website that simulates the wastewater treatment process of a paper mill in Augusta, Georgia. The goal was to create a tool that allows the paper mill to model and adjust its wastewater treatment process without impacting actual operations.
 
 ## My Contributions
-When I started my intership the professor alread had Python scripts to simulate the waste water treatment process of the paper mill but Python scripts are not very use friendly especially for non-programmers. What I did during my intership was create a website front-end that users could use to provide inputs to the Python scripts that simulated the paper mill's waste water treatment process. Completing this also required integrating the font-end I created with the Python scripts in the backend. 
+When I started my internship, the professor already had Python scripts to simulate the paper mill's wastewater treatment process. However, these scripts were not user-friendly, especially for non-programmers. My role was to develop a web-based front end that allowed users to input data for the simulations easily. This also involved integrating the front end with the existing Python scripts on the backend to create a seamless and accessible tool.
 
 ## Project Architecture
 
